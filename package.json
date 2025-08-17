@@ -1,0 +1,21 @@
+{
+    "name": "rn-quickstart",
+  "version": "1.0.0",
+  "description": "The ultimate React Native starter CLI for Expo & React Native CLI projects",
+  "main": "index.js",
+  "type": "module",
+    "files": ["index.js", "templates"],
+"bin": {
+    "rn-quickstart": "index.js"
+  },
+  "keywords": ["react-native", "expo", "cli", "starter", "quickstart"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "execa": "^8.0.1",
+    "fs-extra": "^11.2.0",
+    "inquirer": "^9.2.10",
+    "ora": "^8.0.1"
+  }
+}
