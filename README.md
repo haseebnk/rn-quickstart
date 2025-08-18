@@ -2,7 +2,6 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 [![npm version](https://img.shields.io/npm/v/rn-quickstart.svg)](https://www.npmjs.com/package/rn-quickstart)
 [![downloads](https://img.shields.io/npm/dm/rn-quickstart.svg)](https://www.npmjs.com/package/rn-quickstart)
-[![license](https://img.shields.io/github/license/haseebnk/rn-quickstart)](./LICENSE)
 
 **RN Quickstart** is the ultimate **React Native Starter CLI** that lets you bootstrap **Expo** or **React Native CLI** projects in **seconds**.  
 No more repetitive setup — get navigation, Redux, Axios, and linting configured out of the box.
