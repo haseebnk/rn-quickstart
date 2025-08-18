@@ -1,6 +1,6 @@
 {
   "name": "rn-quickstart",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "🚀 The ultimate React Native starter CLI — Bootstrap Expo & React Native CLI projects with navigation, Redux, Axios, ESLint, and more in seconds.",
   "main": "index.js",
   "type": "module",
